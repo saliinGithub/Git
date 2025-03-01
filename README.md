@@ -1,2 +1,3 @@
 # Git
-This is all about the Git and Github for practices.
+
+This is all about the Git <br> Github for practices.
